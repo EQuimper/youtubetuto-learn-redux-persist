@@ -1,0 +1,24 @@
+{
+  "name": "howtousereduxpersist",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=19001'"
+  },
+  "dependencies": {
+    "expo": "^20.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-native-elements": "^0.16.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-persist": "^4.9.1"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6"
+  }
+}
