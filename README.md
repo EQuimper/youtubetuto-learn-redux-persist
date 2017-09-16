@@ -5,3 +5,7 @@
 3. How to install
 4. Filter reducer
 5. Purge info
+
+## Video Link
+
+https://youtu.be/yaVs--Nhuio
